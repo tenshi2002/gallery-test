@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         gallery test
+// @name         gallery test tested
 // @namespace    http://tampermonkey.net/
-// @version      1.2
-// @description  skins gallery for gota.io with auto-update support from GitHub repository `gallery-test` by tenshi2002
+// @version      1.3
+// @description  skins gallery for gota.io with auto-update support from GitHub repository `gallery-test` by 
 // @author       Tenshi
 // @match        *://*.gota.io/*
 // @grant        GM_getValue
@@ -15,7 +15,7 @@
   (function () {
     'use strict';
 
-    // --- Robust Ad Removal ---
+    // --- Robust Ad Removallollollol ---
     function removeAdBox() {
       // Remove main ad panel
       var adBox = document.getElementById("main-rb");
