@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         gallery test tested
 // @namespace    http://tampermonkey.net/
-// @version      1.3
-// @description  skins gallery for gota.io with auto-update support from GitHub repository `gallery-test` by 
+// @version      1.4
+// @description  skins gallery for gota.io with auto-update support from GitHub repository `gallery-test`
 // @author       Tenshi
 // @match        *://*.gota.io/*
 // @grant        GM_getValue
